@@ -133,5 +133,5 @@ class KeyboardViewController: UIInputViewController {
 > 注意：如果看不到键盘，可以切换下输入法，如果输入法里面没有，需要到“设置”里面将键盘加入。
 ---
 
->  更深入的技术细节：英文号的可以看[官方文档](https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html)
-喜欢看中文的可以看[翻译官方文档](http://www.cocoachina.com/ios/20140918/9677.html)
+> 更深入的技术细节：英文号的可以看[官方文档](https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html)
+> 喜欢看中文的可以看[翻译官方文档](http://www.cocoachina.com/ios/20140918/9677.html)
