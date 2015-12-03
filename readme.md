@@ -129,7 +129,9 @@ class KeyboardViewController: UIInputViewController {
 ![屏幕快照 2015-12-03 下午3.51.13.png](resources/055B237E16D90ED65AC280C69A3100DF.png)
 * 选择地址栏，进入输入状态，可以看到键盘，点击会输入“一支红杏出墙来！”
 * ![屏幕快照 2015-12-03 下午3.53.06.png](resources/E6B2F972F8D4D1EBF8972A4D3C0ECD6B.png)
+
 > 注意：如果看不到键盘，可以切换下输入法，如果输入法里面没有，需要到“设置”里面将键盘加入。
 ---
+
 >  更深入的技术细节：英文号的可以看[官方文档](https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html)
 喜欢看中文的可以看[翻译官方文档](http://www.cocoachina.com/ios/20140918/9677.html)
